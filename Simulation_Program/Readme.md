@@ -2,7 +2,7 @@
 Matlab version: Matlab R2023a
 
 compare2.m:
-Running this program to generate simulation results ``comp1_traj2_Kp100.mat''. Then move it into ``sim_results\traj_sim''.
+Running this program to generate simulation results ``comp1_traj2_Kp100.mat``. Then move it into sim_results\traj_sim.
 
 Panda_run.m:
 Initial parameters.
